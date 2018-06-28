@@ -2,7 +2,7 @@
 A handwritten digit recognizer that use a Convolutional Neural Network, written on python.
 
 ## Getting Started
-*First you'll need to install:*
+_First you'll need to install:_
 
 Python
 https://www.python.org/downloads/
