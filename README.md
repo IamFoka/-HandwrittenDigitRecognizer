@@ -4,7 +4,7 @@ A handwritten digit recognizer that use a Convolutional Neural Network, written 
 ## Getting Started
 **First you'll need to install:**
 
-Python
+Python\n
 https://www.python.org/downloads/
 
 Anaconda - It's a good environment to work with machine learning, especially with Tensorflow that we're going to use.
