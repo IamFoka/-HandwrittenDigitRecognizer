@@ -22,3 +22,9 @@ https://www.tensorflow.org/install/
 Jupyter - It's a web based interface that allows for rapid prototyping and sharing of data-related projects.  
 Can be downloaded using the Anaconda Navigator.
 
+Numpy  
+`pip install numpy`
+
+Matplotlab  
+`matplotlab`
+
