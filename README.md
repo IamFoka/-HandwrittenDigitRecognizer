@@ -28,12 +28,14 @@ Numpy
 Matplotlab  
 `pip install matplotlab`  
 
-
+## How it works
 ## How to use
 
 ### 1-Using Jupyter, open the ... file.
 
-### 2-The first cell contains the import commands of all librarys that we'll use. Also contains the model of our ConvNet, called "batata"
+### 2-The first cell contains the import commands of all librarys that we'll use. Also contains the model of our ConvNet, called "batata".  
+
+### 3- 
 
 
 .
