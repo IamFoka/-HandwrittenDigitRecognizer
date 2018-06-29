@@ -26,5 +26,5 @@ Numpy
 `pip install numpy`
 
 Matplotlab  
-`matplotlab`
+`pip install matplotlab`
 
