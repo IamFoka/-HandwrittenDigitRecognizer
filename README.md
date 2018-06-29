@@ -31,5 +31,12 @@ Matplotlab
 
 ## How to use
 
-### 1- 
+### 1-Using Jupyter, open the ... file.
+
+### 2-The first cell contains the import commands of all librarys that we'll use. Also contains the model of our ConvNet, called "batata"
+
+
+.
+
+
 
