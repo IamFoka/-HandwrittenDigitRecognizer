@@ -26,5 +26,10 @@ Numpy
 `pip install numpy`
 
 Matplotlab  
-`pip install matplotlab`
+`pip install matplotlab`  
+
+
+## How to use
+
+# 1- 
 
