@@ -1,5 +1,5 @@
 # -HandwrittenDigitRecognizer
-A handwritten digit recognizer that use a Convolutional Neural Network, written on python.
+A handwritten digit recognizer that use a Convolutional Neural Network, written on python, ans trained with the MNIST data-set.
 
 ## Getting Started
 **First you'll need to install:**
