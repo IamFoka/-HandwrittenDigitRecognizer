@@ -71,6 +71,7 @@ Matplotlab
 5- On the third cell it's where the results are printed. The results come from the tests on all th 10000 images from the MNIST database.
 
 6- You can use the fourth cell to import a png image from your computer, and test the ConvNet on your own handwritten digit. Your image **must** be on the same folder as the notebook, and you need to substitute the "INSIRA_AQUI.png" by your image file name.
+
 ![screenshot_5](https://user-images.githubusercontent.com/40413290/42132490-30b900ba-7cef-11e8-8f28-8f6ad89b63ff.png)
 
 
