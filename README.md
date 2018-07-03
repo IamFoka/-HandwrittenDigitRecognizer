@@ -43,7 +43,7 @@ Matplotlab
 ![screenshot_3](https://user-images.githubusercontent.com/40413290/42132300-a9ae184c-7ceb-11e8-8fc4-08d7be6fa8a1.png)
 
 ##### 4- Flatten function:
-   The last step before the Classic Neural Network receive the input to make the decisions, is to turn the image matrix, that pass by the previous metods, into a vector. And just that's what this function does.
+   The last step before the Classic Neural Network receive the input to make the decisions. It turns the image matrix, that pass by the previous metods, into a vector. And just that's what this function does.
 ![screenshot_4](https://user-images.githubusercontent.com/40413290/42132411-afdacb32-7ced-11e8-9e87-d6bd3c683a6b.png)
 
 ##### That was just a simple resume about all the convolutional process, but you can read and learn more about it here:
